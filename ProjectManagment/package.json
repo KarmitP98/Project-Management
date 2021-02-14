@@ -41,7 +41,7 @@
     "firebase": "^7.19.0",
     "fusioncharts": "^3.15.3",
     "ionic4-tooltips": "^2.0.0",
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.0",
     "moment": "^2.27.0",
     "ng2-charts": "^2.4.1",
     "rxjs": "~6.6.2",
